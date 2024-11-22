@@ -1,5 +1,6 @@
 // Customize the `dev` profile to wrap around on overflow.
 // Check Cargo's documentation to find out the right syntax:
+
 // https://doc.rust-lang.org/cargo/reference/profiles.html
 //
 // For reasons that we'll explain later, the customization needs to be done in the `Cargo.toml`
